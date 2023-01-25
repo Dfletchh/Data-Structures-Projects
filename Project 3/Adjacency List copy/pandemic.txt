@@ -1,0 +1,142 @@
+48 93
+San Francisco
+Chicago
+Atlanta
+Montreal
+Washington
+New York
+Madrid
+London
+Paris
+Essen
+Milan
+St. Petersburg
+Los Angeles
+Mexico City
+Lima
+Santiago
+Bogota
+Miami
+Buenos Aires
+Sao Paulo
+Lagos
+Kinshasa
+Johannesburg
+Khartoum
+Algiers
+Cairo
+Istanbul
+Moscow
+Baghdad
+Riyadh
+Tehran
+Karachi
+Mumbai
+Delhi
+Chennai
+Kolkata
+Bangkok
+Jakarta
+Beijing
+Shanghai
+Hong Kong
+Ho Chi Minh City
+Seoul
+Taipei
+Manila
+Tokyo
+Osaka
+Sydney
+San Francisco, Chicago
+San Francisco, Los Angeles
+San Francisco, Manila
+San Francisco, Tokyo
+Chicago, Atlanta
+Chicago, Montreal
+Chicago, Los Angeles
+Chicago, Mexico City
+Atlanta, Washington
+Atlanta, Miami
+Montreal, Washington
+Montreal, New York
+Washington, New York
+Washington, Miami
+New York, London
+New York, Madrid
+Madrid, London
+Madrid, Paris
+Madrid, Sao Paulo
+Madrid, Algiers
+London, Paris
+London, Essen
+Paris, Essen
+Paris, Milan
+Paris, Algiers
+Essen, Milan
+Essen, St. Petersburg
+Milan, Istanbul
+St. Petersburg, Istanbul
+St. Petersburg, Moscow
+Los Angeles, Mexico City
+Los Angeles, Sydney
+Mexico City, Lima
+Mexico City, Bogota
+Mexico City, Miami
+Lima, Bogota
+Lima, Santiago
+Bogota, Miami
+Bogota, Buenos Aires
+Bogota, Sao Paulo
+Buenos Aires, Sao Paulo
+Sao Paulo, Lagos
+Lagos, Kinshasa
+Lagos, Khartoum
+Kinshasa, Johannesburg
+Kinshasa, Khartoum
+Khartoum, Johannesburg
+Khartoum, Cairo
+Algiers, Istanbul
+Algiers, Cairo
+Cairo, Baghdad
+Cairo, Riyadh
+Istanbul, Cairo
+Istanbul, Moscow
+Istanbul, Baghdad
+Moscow, Tehran
+Baghdad, Riyadh
+Baghdad, Tehran
+Baghdad, Karachi
+Riyadh, Karachi
+Tehran, Karachi
+Tehran, Delhi
+Karachi, Mumbai
+Karachi, Delhi
+Mumbai, Delhi
+Mumbai, Chennai
+Delhi, Chennai
+Delhi, Kolkata
+Chennai, Kolkata
+Chennai, Bangkok
+Chennai, Jakarta
+Kolkata, Bangkok
+Kolkata, Hong Kong
+Bangkok, Jakarta
+Bangkok, Hong Kong
+Bangkok, Ho Chi Minh City
+Jakarta, Ho Chi Minh City
+Jakarta, Sydney
+Beijing, Shanghai
+Beijing, Seoul
+Shanghai, Hong Kong
+Shanghai, Seoul
+Shanghai, Taipei
+Shanghai, Tokyo
+Hong Kong, Ho Chi Minh City
+Hong Kong, Taipei
+Hong Kong, Manila
+Ho Chi Minh City, Manila
+Seoul, Tokyo
+Taipei, Manila
+Taipei, Osaka
+Manila, Sydney
+Tokyo, Osaka
